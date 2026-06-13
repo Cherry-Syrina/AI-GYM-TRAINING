@@ -2,6 +2,10 @@
 
 A real-time AI-powered fitness coaching app built with **Streamlit**, **MediaPipe Pose Landmarker**, and **Groq LLM**. The app tracks your exercise form live through your webcam, counts reps, analyzes posture, and gives spoken feedback like a personal trainer.
 
+## 🔗 Live Demo
+
+[https://ai-gym-training-qu8usazithbfhlthlssxck.streamlit.app/](https://ai-gym-training-qu8usazithbfhlthlssxck.streamlit.app/)
+
 ## ✨ Features
 
 - **Real-time Pose Detection** — Uses MediaPipe Pose Landmarker for accurate body tracking via webcam (powered by `streamlit-webrtc`)
@@ -126,4 +130,4 @@ python-dotenv==1.2.2
 
 ## 👩‍💻 Author
 
-Built by [Sushma Shukla](https://github.com/Cherry-Syrina)
+Built by [Cherry-Syrina](https://github.com/Cherry-Syrina)
